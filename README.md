@@ -27,14 +27,14 @@
 
 
 header 1 | header 2 | header 3
-<<<<<<< HEAD
+
 ---|---| --- |
 row 1 col 1 | row 1 col 2 |3
 row 2 col 1 | row 2 col 2 |3
 
 **我留下的痕迹**
 
-=======
+
 ---|---| --- | --- |
 row 1 col 1 | row 1 col 2 |3
 row 2 col 1 | row 2 col 2 |3
@@ -47,7 +47,6 @@ header 1 | header 2 | header 3
 row 1 col 1 | row 1 col 2 |3
 row 2 col 1 | row 2 col 2 |3
 row 3 col 1 | row 3 col 2 |3
->>>>>>> f4ef3e69cad0bd8a0bf3646f82cd297d83d96a05
 
 **我留下的痕迹**
 1. 老大
